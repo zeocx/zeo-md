@@ -4,7 +4,6 @@ Base WhatsApp Bot Multi Device
 <p align="center">
 	<img src="https://telegra.ph/file/fe61741520046b914c7d5.jpg" width="50%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
-<h1 align="center"Zeo-Md</h1>
 
 # ```MULTIDEVICE-BOT```
 <p align="center">
