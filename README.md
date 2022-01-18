@@ -2,7 +2,7 @@
 Base WhatsApp Bot Multi Device
 
 <p align="center">
-	<img src="https://telegra.ph/file/09cc0981ccf07754d0af6.jpg" width="35%" style="margin-left: auto;margin-right: auto;display: block;">
+	<img src="https://telegra.ph/file/fe61741520046b914c7d5.jpg" width="50%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
 <h1 align="center">Hisoka-Morou</h1>
 
@@ -59,10 +59,3 @@ Get Apikey zenz on [`zenz`](https://zenzapi.xyz/dashboard)
 * [`DikaArdnt/Hisoka-Morou`](https://github.com/DikaArdnt/Hisoka-Morou)
 
 License: [MIT](https://en.wikipedia.org/wiki/MIT_License)
-
-Support Me
-* [`Paypal`](https://www.paypal.me/Cakhaho)
-* [`Saweria`](https://saweria.co/DikaArdnt)
-
-Thanks For Donate
-
